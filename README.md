@@ -11,6 +11,4 @@ GitHub - [@ouvcs](https://github.com/ouvcs)
 [ouvcs/site](https://github.com/ouvcs/site) - The site of OUVC.
 [ouvcs/site-test](https://github.com/ouvcs/site-test) - Testing of the site of OUVC.
 
-```diff
-! [ARCHIVE]
-``` [ouvcs/site-old](https://github.com/ouvcs/site-old) - The old site of OUVC.
+***[ARCHIVE]*** [ouvcs/site-old](https://github.com/ouvcs/site-old) - The old site of OUVC.
