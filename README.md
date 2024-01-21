@@ -11,11 +11,13 @@ GitHub - [@ouvcs](https://github.com/ouvcs)
 
 <br>
 
-
+[ouvcs/site](https://github.com/ouvcs/site) - Main site of OUVC. \
+[ouvcs/server](https://github.com/ouvcs/server) - Server for main site of OUVC.
 
 <br>
 
-
+[ouvcs/ong](https://github.com/ouvcs/ong) - One page sites. \
+<sup>*temporaly repo*</sup>
 
 ## Archives
 
